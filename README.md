@@ -17,7 +17,9 @@ Contains 13233 total values from 1972-2025.
 - 📊 Moving Averages (50-day & 200-day):
 - Golden Cross (50-day MA crosses above 200-day MA) signals bullish momentum.
 - Death Cross (50-day MA below 200-day MA) often precedes bearish trends.
-![image](https://github.com/user-attachments/assets/18086668-123e-4991-9138-6b1a38384a46)
+From 2020 to 2022, the 50-day moving average stayed above the 200-day MA, signaling an uptrend. The COVID-19 pandemic in 2022 caused a sideways trend, but after that, the market resumed its uptrend, with the 50-day MA remaining above the 200-day MA.
+![image](https://github.com/user-attachments/assets/9d03d510-14ed-450c-833e-dbaa55c5c0ab)
+
 
 
 ## How to Run 🖥️
